@@ -1,0 +1,3 @@
+[submodule "interbeacon"]
+	path = interbeacon
+	url = https://github.com/grvcPerception/interbeacon
